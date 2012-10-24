@@ -1,0 +1,39 @@
+name = Verritech Base Install
+description = Drupal base install with custom modules/configuration for Verritech usage
+core = 7.x
+
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+dependencies[] = webform
+dependencies[] = captcha
+dependencies[] = recaptcha
+dependencies[] = ctools
+dependencies[] = views
+dependencies[] = admin_menu
+dependencies[] = jquery_update
+dependencies[] = link
+dependencies[] = less
+dependencies[] = libraries
+dependencies[] = php
+
+
+; System Requirements.
+php_memory_limit = 128M
