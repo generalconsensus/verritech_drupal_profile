@@ -45,3 +45,19 @@ projects[less][type] = "module"
 projects[captcha][type] = "module"
 projects[recaptcha][type] = "module"
 projects[jquery_update][type] = "module"
+
+
+; Profile
+; --------
+
+projects[verritech][type] = "profile"
+projects[verritech][download][type] = "git"
+projects[verritech][download][branch] = "master"
+projects[verritech][download][url] = "git://github.com/dannymacom/verritech_drupal_profile.git"
+
+; Libraries
+; ----------
+
+libraries[lessphp][download][type] = "git"
+libraries[lessphp][download][url] = "git://github.com/leafo/lessphp.git"
+libraries[lessphp][download][tag] = "v0.3.8"
