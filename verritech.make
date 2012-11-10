@@ -58,10 +58,7 @@ projects[backup_migrate][type] = "module"
 ; Profile
 ; --------
 
-projects[verritech][type] = "profile"
-projects[verritech][download][type] = "git"
-projects[verritech][download][branch] = "master"
-projects[verritech][download][url] = "git://github.com/dannymacom/verritech_drupal_profile.git"
+
 
 ; Libraries
 ; ----------
