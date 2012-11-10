@@ -28,7 +28,6 @@ dependencies[] = link
 dependencies[] = less
 dependencies[] = libraries
 dependencies[] = php
-dependencies[] = less
 dependencies[] = modernizr
 dependencies[] = metatag
 dependencies[] = token
