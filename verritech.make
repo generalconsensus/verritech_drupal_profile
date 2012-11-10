@@ -45,6 +45,15 @@ projects[less][type] = "module"
 projects[captcha][type] = "module"
 projects[recaptcha][type] = "module"
 projects[jquery_update][type] = "module"
+projects[less][type] = "module"
+projects[modernizr][type] = "module"
+projects[metatag][type] = "module"
+projects[token][type] = "module"
+projects[google_analytics][type] = "module"
+projects[pathauto][type] = "module"
+projects[globalredirect][type] = "module"
+projects[redirect][type] = "module"
+projects[backup_migrate][type] = "module"
 
 
 ; Profile
